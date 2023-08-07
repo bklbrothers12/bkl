@@ -1,4 +1,4 @@
-#include<stdio.h>
+
 class Helloworld{
 public static void main(Strong args[]) 
 {
